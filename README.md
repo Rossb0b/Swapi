@@ -1,5 +1,7 @@
 # Swapi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Rossb0b/Swapi.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
 ## Development server
